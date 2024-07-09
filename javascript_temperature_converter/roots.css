@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.a{
+    padding: 10px;
+}
+.b{
+    margin-top: 10px;
+    padding: 10px;
+}
+.c{
+    margin-top: 10px;
+    padding: 10px;
+}
+.button{
+    margin-top: 10px;
+    padding: 10px;
+}
